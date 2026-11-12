@@ -36,8 +36,7 @@ void isPalindrome(char *str) {
 int main() {
     
   	// Cheking for palindrome strings
-	isPalindrome("madam");
+	isPalindrome("level");
   	isPalindrome("hello");
-
     return 0;
 }
