@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    String text = "level";
+    String text = "air";
     boolean isPalindrome = true;
 
     for (int i = 0; i < text.length() / 2; i++) {
